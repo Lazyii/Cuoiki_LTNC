@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\dao\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:dao\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\dao\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:dao\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\dao\\repositories\\phongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:dao\\repositories\\phongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\bus\\phongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:bus\\phongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\view\\form ph\u1EE5\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:view\\form ph\u1EE5\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\bus\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:bus\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\dao\\repositories\\dichvurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:dao\\repositories\\dichvurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\bus\\dichvuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:bus\\dichvuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\view\\form ph\u1EE5\\thongtinphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:view\\form ph\u1EE5\\thongtinphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\view\\form ph\u1EE5\\thongtinphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:view\\form ph\u1EE5\\thongtinphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|c:\\users\\lazyk\\onedrive\\desktop\\c#\\winformsapp4\\view\\form ph\u1EE5\\thongtinphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E7BA9-82FE-40A3-BACB-301DF1A19566}|CK.csproj|solutionrelative:view\\form ph\u1EE5\\thongtinphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-11T10:50:58.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhongService.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\BUS\\PhongService.cs",
+              "RelativeDocumentMoniker": "BUS\\PhongService.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\BUS\\PhongService.cs",
+              "RelativeToolTip": "BUS\\PhongService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:47:35.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\DAO\\Repositories\\PhongRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\Repositories\\PhongRepository.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\DAO\\Repositories\\PhongRepository.cs",
+              "RelativeToolTip": "DAO\\Repositories\\PhongRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:47:13.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\DAO\\AppConfig.cs",
+              "RelativeDocumentMoniker": "DAO\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\DAO\\AppConfig.cs",
+              "RelativeToolTip": "DAO\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:17:37.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\DAO\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAO\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\DAO\\AppDbContext.cs",
+              "RelativeToolTip": "DAO\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:17:16.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Datphong.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\VIEW\\form ph\u1EE5\\Datphong.cs",
+              "RelativeDocumentMoniker": "VIEW\\form ph\u1EE5\\Datphong.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\VIEW\\form ph\u1EE5\\Datphong.cs",
+              "RelativeToolTip": "VIEW\\form ph\u1EE5\\Datphong.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:07:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHangService.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\BUS\\KhachHangService.cs",
+              "RelativeDocumentMoniker": "BUS\\KhachHangService.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\BUS\\KhachHangService.cs",
+              "RelativeToolTip": "BUS\\KhachHangService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:07:26.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Thongtinphong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\VIEW\\form ph\u1EE5\\Thongtinphong.cs",
+              "RelativeDocumentMoniker": "VIEW\\form ph\u1EE5\\Thongtinphong.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\VIEW\\form ph\u1EE5\\Thongtinphong.cs [Design]",
+              "RelativeToolTip": "VIEW\\form ph\u1EE5\\Thongtinphong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:37:15.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Thongtinphong.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\VIEW\\form ph\u1EE5\\Thongtinphong.cs",
+              "RelativeDocumentMoniker": "VIEW\\form ph\u1EE5\\Thongtinphong.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\VIEW\\form ph\u1EE5\\Thongtinphong.cs",
+              "RelativeToolTip": "VIEW\\form ph\u1EE5\\Thongtinphong.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAFwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:33:08.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DichVuService.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\BUS\\DichVuService.cs",
+              "RelativeDocumentMoniker": "BUS\\DichVuService.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\BUS\\DichVuService.cs",
+              "RelativeToolTip": "BUS\\DichVuService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:32:06.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DichVuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\DAO\\Repositories\\DichVuRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\Repositories\\DichVuRepository.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\DAO\\Repositories\\DichVuRepository.cs",
+              "RelativeToolTip": "DAO\\Repositories\\DichVuRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:32:01.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Thongtinphong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\VIEW\\form ph\u1EE5\\Thongtinphong.Designer.cs",
+              "RelativeDocumentMoniker": "VIEW\\form ph\u1EE5\\Thongtinphong.Designer.cs",
+              "ToolTip": "C:\\Users\\lazyk\\OneDrive\\Desktop\\C#\\WinFormsApp4\\VIEW\\form ph\u1EE5\\Thongtinphong.Designer.cs",
+              "RelativeToolTip": "VIEW\\form ph\u1EE5\\Thongtinphong.Designer.cs",
+              "ViewState": "AgIAAOcBAAAAAAAAAAAAANkBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T08:58:43.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

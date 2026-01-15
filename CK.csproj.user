@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="VIEW\form phụ\Datphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\form phụ\Dichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\form phụ\PhongForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\form phụ\Taikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\form phụ\Thietbi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\form phụ\Thongtinphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\Hoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIEW\Uc\UcBaocao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VIEW\Uc\UcDanhsachphong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VIEW\Uc\UcDatphong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VIEW\Uc\UcDieukhien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VIEW\Uc\UcKhachhang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VIEW\Uc\UcNhanvien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VIEW\Uc\UcThongke.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="VIEW\form phụ\Datphong.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VIEW\form phụ\Dichvu.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VIEW\form phụ\PhongForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VIEW\Login.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VIEW\Mainform.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
